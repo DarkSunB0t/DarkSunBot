@@ -23,7 +23,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : https://darksunb0t.github.io
+production_url : https://darksunb0t.github.io/DarkSunBot
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -41,12 +41,6 @@ JB :
   # GitHub Pages (http://username.github.io)
   #   DO NOT SET BASE_PATH 
   #   (urls will be prefixed with "/" and work relatively)
-  #
-  # GitHub Project Pages (http://username.github.io/project-name)
-  #
-  #   A GitHub Project site exists in the `gh-pages` branch of one of your repositories.
-  #  REQUIRED! Set BASE_PATH to: http://abhn.github.io/
-  #
   # CAUTION:
   #   - When in Localhost, your site will run from root "/" regardless of BASE_PATH
   #   - Only the following values are falsy: ["", null, false]
